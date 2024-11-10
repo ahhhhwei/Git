@@ -18,7 +18,7 @@ git init
 
 ### 2.配置 Git
 
-当安装Git后首先要做的是设置你的用户名称和e-mail地址，这是非常重要的。配置命令为：
+当安装Git后首先要做的是设置你的用户名称和 e-mail 地址，这是非常重要的。配置命令为：
 
 ```shell
 git config [--global] user.name "Your Name" # 配置用户名
