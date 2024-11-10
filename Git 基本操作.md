@@ -10,7 +10,7 @@
 git init
 ```
 
-![init 仓库](./pic/init 仓库.png)
+![init 仓库](./pic/init_仓库.png)
 
 我们发现，当前目录下多了一个 `.git` 的隐藏文件，它是用来跟踪管理仓库的。
 
@@ -178,11 +178,11 @@ ahwei@ubuntu:~/Desktop/gitcode$ tree .git
   add 3 files
   ```
 
-  ![git cat-file](./pic/git cat-file.png)
+  ![git cat-file](./pic/git_cat-file.png)
 
   查看 readme.md 对应的 object：
 
-  ![readme.md 对应的 object](./pic/readme.md 对应的 object.png)
+  ![readme.md 对应的 object](./pic/readme.md_对应的_object.png)
 
   我们对 readme.md 的修改被 git 记录下来了
 
@@ -210,7 +210,7 @@ git diff test1/readme.md
 
 也可以用 `git diff HEAD -- [file]` 命令来查看版本库和工作区文件的区别：
 
-![git diff HEAD -- [file]](./pic/git diff HEAD -- [file].png)
+![git diff HEAD -- [file]](./pic/git_diff_HEAD_--_[file].png)
 
 `git add` 之后，就没有看到上面 `no changes added to commit (use "git add" and/or "git commit -a")` 的消息了
 
