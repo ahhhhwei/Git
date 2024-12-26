@@ -2,7 +2,7 @@
 
 学习 Git 常用命令和场景，主要分为以下几个方面
 
-- [Git与Git安装](https://github.com/ahhhhwei/Git/blob/main/1.Git%20与%20Git 安装.md)
+- [Git与Git安装](https://github.com/ahhhhwei/Git/blob/main/1.Git%20与%20Git安装.md)
 - [Git基本操作](https://github.com/ahhhhwei/Git/blob/main/2.Git%20基本操作.md)
 - [Git分支管理](https://github.com/ahhhhwei/Git/blob/main/3.Git%20分支管理.md)
 - [远程操作](https://github.com/ahhhhwei/Git/blob/main/4.远程操作.md)
